@@ -1,0 +1,14 @@
+body{
+    background-image: url(h2.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+    text-decoration: midnightblue;
+    text-decoration: underline;
+    color: rgba(14, 2, 10, 0.719);
+    
+}
