@@ -6,6 +6,7 @@
 }
 body{
     background-image: url("gibo.jpg" );
+    height: 150vh;
     
     background-image: -webkit-image-set();
     background-size: cover;
@@ -13,6 +14,7 @@ body{
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
 .menu-bar
 {
     background: rgb(64, 13, 206);
